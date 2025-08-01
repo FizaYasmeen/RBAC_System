@@ -11,7 +11,6 @@ This is a secure Role-Based Access Control (RBAC) system built using **Node.js**
 - 🧑‍⚖️ Role-based access middleware
 - 🛂 Permission-based route protection
 - 📂 Modular folder structure for scalability
-- 🧪 Basic testing support
 - 🌐 MongoDB integration via Mongoose
 
 ---
@@ -25,5 +24,4 @@ This is a secure Role-Based Access Control (RBAC) system built using **Node.js**
 
 ---
 
-## 🏗️ Project Structure
 
